@@ -1,0 +1,198 @@
+#ferst{
+    background-color: rgb(123, 172, 173);
+}
+#ferst1{
+    margin-left: 250px;
+    width: 1000px;
+    height: 350px;
+    background-color: #5d777e;
+    opacity: 0.5;
+}
+#title{
+font-family: 'Source Serif 4', sans-serif;
+font-size: 50px;
+position:relative;
+top: 135px;
+text-align: center;
+color: white;
+}
+.menu{
+    display: inline;
+    margin-left: 30px;
+    
+}
+#menu{
+    margin-left: 10px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.title2{
+    font-family:'Nunito Sans', sans-serif; 
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+   top: 50px;
+   
+}
+.aboutme {
+    font-family: 'Source Serif 4', sans-serif; 
+    font-size: 20px; 
+    margin-top: 75px;
+    position: relative;
+    text-align: center;
+}
+#second{
+    background-color: #71868b;
+}
+#third{
+    background-color: rgb(123, 172, 173);
+
+}
+#third1{
+    margin-left: 250px;
+    width: 1000px;
+    height: 350px;
+    background-color: rgb(232, 232, 238);
+}
+#title3{
+    position: relative;
+    text-align: center;
+    font-family:'Nunito Sans', sans-serif; 
+    font-size: 30px;
+    top: 30px;
+
+}
+#skils{ height: 300px;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content: space-around;
+    align-content: center;
+}
+.skils{
+    margin-top: 20px;
+    
+    background-color: rgb(84, 114, 116);
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+    margin-left:10px ;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 1px ;
+    border-color: black;
+    font-size: 20px;
+}
+.list2{
+    font-family: 'Source Serif 4', sans-serif;
+    font-size: 20px;  
+}
+.list1{
+    font-family: 'Source Serif 4', sans-serif;
+    font-size: 20px;
+    margin-right: 120px;;
+}
+.fourth1{
+    width: 400px;
+    /*background-color: rgb(199, 135, 40);*/
+    height: 200px;
+    position: relative;
+    margin: 0 auto;
+
+
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap ;
+    justify-content: space-between;
+    align-items: center;
+}
+#fourth{
+     background-color: rgb(160, 171, 173);
+}
+
+#title4{
+    position: relative;
+    text-align: center;
+    font-family:'Nunito Sans', sans-serif; 
+    font-size: 30px;
+    top: 10px;
+}
+#fifth{
+    background-color: rgb(232, 232, 238);
+    height: 400px;
+}
+.title5{
+    position: relative;
+    text-align: center;
+    font-family:'Nunito Sans', sans-serif; 
+    font-size: 30px;
+    top: 40px;
+}
+#bloks{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+    height: 400px;
+}
+.blok1{
+    height: 150px;
+    width: 200px;
+    background-color: rgb(138, 138, 138);
+    opacity: 0.5;
+    border-radius: 20px;
+    box-shadow: 5px -5px;
+    
+}
+.blok2{
+    height: 150px;
+    width: 200px ;
+    background-color: rgb(138, 138, 138);
+    margin-left: 40px;
+    opacity: 0.5;
+    border-radius: 20px;
+    box-shadow: 5px -5px;
+}
+.blok3{
+    height: 150px;
+    width:200px ;
+    background-color: rgb(138, 138, 138);
+    margin-left: 40px;
+    opacity: 0.5;
+    border-radius: 20px;
+    box-shadow: 5px -5px;
+}
+.title_blok{
+    font-family:'Nunito Sans', sans-serif; 
+    font-size: 17px;
+    margin-top: 200px;
+    color: rgb(14, 13, 13); /* не понимаю почему черный стал серым*/
+}
+#sixth{
+      height: 350px;
+}
+.title6{
+    position: relative;
+    text-align: center;
+    font-family:'Nunito Sans', sans-serif; 
+    font-size: 30px;
+    top: 10px;
+}
+.contact{
+    font-family: 'Source Serif 4', sans-serif;
+    font-size: 20px;
+    margin-top: 55px;
+    margin-left: 100px;  
+}
+.contact_1{
+    display: block;
+    font-family: 'Source Serif 4', sans-serif;
+    font-size: 20px;
+    margin-top: 55px;
+    margin-left: 96px; 
+    /*margin-bottom: 30px; */
+}
